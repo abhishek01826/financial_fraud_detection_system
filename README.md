@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+## Live :- Dashboard - https://fraud-detection-och.netlify.app/
+
 This project focuses on detecting fraudulent financial transactions using Machine Learning techniques. It simulates real-world financial data and applies multiple ML models to identify fraud, predict loan defaults, detect anomalies, and segment customers.
 
 ---
